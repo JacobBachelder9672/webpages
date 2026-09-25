@@ -1,0 +1,17 @@
+commit a2792304594836854e624489769820b136c6da19
+Author: jmbachel_ncstate <jmbachel@ncsu.edu>
+Date:   Fri Sep 25 13:09:05 2026 -0400
+
+    Update photo id and table class to match stylesheet
+
+commit 442d86d42d6e5bddf36b4cdf8fdeb587f041752b
+Author: jmbachel_ncstate <jmbachel@ncsu.edu>
+Date:   Fri Sep 25 13:09:05 2026 -0400
+
+    Add paragraph, photo, and table border styles to CSS
+
+commit b50dd352148277f8382531e125841440078e9615
+Author: jmbachel_ncstate <jmbachel@ncsu.edu>
+Date:   Thu Sep 24 16:11:00 2026 -0400
+
+    uploading files
